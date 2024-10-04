@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
+# Bash Cards
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+_04.10.2024_
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+A Vite-Vue-Typescript app project, inspired by [Code with Susan's](https://codewithsusan.com/) Vue tutorials on Youtube.
+I'll be taking Susan's initial _Flashwords_ app, but recreating it and expanding upon it using TypeScript (as a novice with the language) and trying for the very first time to follow TDD (Test Driven Development) principles for the whole process.
+
+The end goal is to have produced an flashcard app that can be used to practice and memorize many popular Linux (**bash**) shell commands.
+
+I also hope for it to be linked to a db so that users may be able to create, store, update and delete their own cards to the app.
