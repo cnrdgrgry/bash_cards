@@ -3,9 +3,9 @@
 Practice project inspired by a Vue.js tutorial I found on [Youtube by Susan B.](https://codewithsusan.com/notes/vuejs-simplified-1) for a simple flashcard app.
 
 I will use it for creating flashcards to practice BASH/Linux utility commands in a similar way as I did to pass my CompTIA Linux+ certification.
-I hope to also implement a simple database so that additional cards may be added or removed via a restful API moving forwards.
+I hope to also implement a simple database so that additional cards may be added or removed via a RESTful API moving forwards.
 
-My plan is to poach the idea, and the basic outline of the project form Susan B's code, but implement a more complex version following Test Driven Development (TDD) principles for the fist time and also attempting to use TypeScript (TS) and PHP for the first time, both as a novice, in a full stack project.
+My plan is to poach the idea, and the basic outline of the project, from Susan B's code, but implement a more complex version following Test Driven Development (TDD) principles for the fist time and also attempting to use TypeScript (TS) and PHP for the first time, both as a novice, in a full stack project.
 
 ## Recommended IDE Setup
 
